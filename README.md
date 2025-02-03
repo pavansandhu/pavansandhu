@@ -1,4 +1,5 @@
-# Pavan Sandhu  | Full Stack Developer 👩🏾‍💻 | Calgary, AB⛰️ 🌞 | Mum 👪🏽, lover of pizza 🍕, and triathlon 🏊🏾‍♀️🚲🏃🏾‍♀️
+# Pavan Sandhu  | Full Stack Developer 👩🏾‍💻 | Calgary, AB⛰️ 🌞 |                                            
+## Mum 👪🏽, lover of pizza 🍕, and triathlon 🏊🏾‍♀️🚲🏃🏾‍♀️
 
 Hi! I'm Pavan and welcome to my GitHub. I've just started my journey as a software developer but I have been a Mechanical Engineer for over 10 years working in manufacturing environments in different capacities. From designer, operations engineer to project manager and everything in between. 
 
